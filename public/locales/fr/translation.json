@@ -1,0 +1,153 @@
+{
+  "general": {
+    "cancel": "Annuler",
+    "continue": "Continuer",
+    "discard": "Abandonner",
+    "close": "Fermer",
+    "total": "Total",
+    "delete": "Supprimer"
+  },
+  "buttons": {
+    "payNow": "Payer maintenant",
+    "append": "Ajouter",
+    "authenticate": "S'authentifier"
+  },
+  "auth": {
+    "logOut": "Déconnexion",
+    "selectUsername": "Choisissez votre nom"
+  },
+  "dialogs": {
+    "confirmationAlertTitle": "Êtes-vous absolument sûr ?",
+    "billConfirmationDesc": "Cette action va générer et imprimer la facture de la commande en cours, y compris tous les articles ajoutés."
+  },
+  "gateway": {
+    "orderRequest": "Nouvelle Commande",
+    "tableArrangements": "Disposition des Tables",
+    "dailySummaries": "Résumés Quotidiens",
+    "appSettings": "Paramètres Généraux"
+  },
+  "orders": {
+    "menu": {
+      "foodiesMenu": "Menu",
+      "foodiesMenuDesc": "Parcourez notre sélection de plats par catégorie.",
+      "all": "Tous"
+    },
+    "addsOn": {
+      "customize": "Personnaliser",
+      "customizeDesc": "Sélectionnez les ingrédients que vous souhaitez ajouter ou supprimer.",
+      "categoryDesc": "Sélectionnez vos ajouts désirés",
+      "addOnHint": "Vous pouvez ajouter jusqu'à {{num}} de cet élément.",
+      "ingredients": "Ingrédients",
+      "ingredientsDesc": "Personnalisez vos ingrédients",
+      "ingredientsHint": "Quantité par défaut {{num}}{{unit}}.",
+      "specialInstructions": "Instructions spéciales",
+      "specialInstructionsDesc": "Entrez vos instructions spéciales"
+    },
+    "discount": {
+      "discount": "Remise",
+      "discountDesc": "Ajoutez une remise pour l'achat en cours."
+    },
+    "summaryTable": {
+      "item": "Article",
+      "price": "Prix",
+      "quantity": "Quantité",
+      "discount": "Remise",
+      "totalAfterDiscount": "Total après remise",
+      "summaryDesc": "Commencez à constituer une commande en sélectionnant des articles dans le menu."
+    },
+    "bill": "Facture",
+    "guests": {
+      "guests": "Invités",
+      "guestsDialogDesc": "Ajoutez le nombre d'invités à la commande en cours."
+    },
+    "split": "Diviser",
+    "transfer": "Transférer",
+    "agents": {
+      "agents": "Agents",
+      "agentsDesc": "Commencez à taper pour sélectionner un agent dans la liste ou créez une préférence personnalisée.",
+      "existingAgent": "Agent existant",
+      "custom": "Personnalisé",
+      "customPlaceholder": "Par exemple 10 pour 10%",
+      "selectAgent": "Sélectionner un agent",
+      "searchAgent": "Rechercher un agent",
+      "noAgentFound": "Aucun agent trouvé"
+    },
+    "payment": {
+      "payment": "Paiement",
+      "remaining": "Restant",
+      "toGiveBack": "À rendre"
+    },
+    "order": {
+      "order": "Commande",
+      "orderLine": "Liste des Commandes",
+      "confirmation": "Confirmation",
+      "orderDialogDesc": "Pour continuer, choisissez le type de commande et saisissez les valeurs associées.",
+      "atTheTable": "À la table",
+      "atTheTableDesc": "Pour commander sur place, veuillez sélectionner une table sur la page des tables.",
+      "tableConfirmation": "Est-ce la table que vous vouliez ? Sinon, quittez et sélectionnez à nouveau.",
+      "onTheSpot": "Sur place",
+      "onTheSpotDesc": "Vous avez choisi le type SUR PLACE. Pour continuer avec ce type, cliquez simplement sur le bouton Continuer.",
+      "takeaway": "À emporter",
+      "takeawayDesc": "Vous avez choisi le type À EMPORTER. Pour continuer avec ce type, cliquez simplement sur le bouton Continuer.",
+      "delivery": "Livraison",
+      "deliveryDesc": "Vous avez choisi le type LIVRAISON. Pour continuer avec ce type, cliquez simplement sur le bouton Continuer."
+    },
+    "managerAuth": {
+      "authentication": "Authentification",
+      "authenticationDesc": "Veuillez sélectionner votre nom et saisir votre mot de passe pour appliquer une remise.",
+      "selectUsername": "Sélectionnez un nom d'utilisateur"
+    }
+  },
+  "tables": {
+    "orderDetails": "Détails de la commande",
+    "tables": "Tables",
+    "floor": "Étage",
+    "area": "Zone",
+    "table": "Table",
+    "chairs": "Chaises",
+    "allTables": "Toutes les tables",
+    "available": "Disponible",
+    "reserved": "Réservée",
+    "occupied": "Occupée",
+    "status": "Statut",
+    "square": "Carrée",
+    "circle": "Ronde",
+    "small": "Petite",
+    "normal": "Normale",
+    "large": "Grande",
+    "number": "Numéro",
+    "shape": "Forme",
+    "size": "Taille",
+    "tableActions": "Actions sur la table"
+  },
+  "settings": {
+    "settings": "Paramètres",
+    "settingsDesc": "Gérez les paramètres et préférences de votre application.",
+    "preferences": "Préférences",
+    "language": "Langue",
+    "languageDesc": "Personnalisez la langue utilisée dans l'application.",
+    "english": "Anglais",
+    "french": "Français",
+    "general": "Général"
+  },
+  "summaries": {
+    "summaries": "Résumés",
+    "summariesDesc": "Parcourez les commandes récemment ajoutées.",
+    "filterOrders": "Filtrer les commandes...",
+    "columns": "Colonnes",
+    "next": "Suivant",
+    "previous": "Précédent",
+    "tableDesc": "{{current}} sur {{total}} ligne(s) sélectionnée(s).",
+    "reference": "Référence",
+    "status": "Statut",
+    "guests": "Invités",
+    "orderType": "Type de Commande",
+    "date": "Date",
+    "actions": "Actions",
+    "noResults": "Aucun résultat.",
+    "placed": "En attente",
+    "completed": "Terminée",
+    "progress": "En cours",
+    "cancelled": "Annulée"
+  }
+}

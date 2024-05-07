@@ -1,0 +1,50 @@
+[
+  {
+    "pricePerServing": 397.31,
+    "id": 1,
+    "title": "Honeydew Fruit Salad",
+    "image": "https://spoonacular.com/recipeImages/647333-556x370.jpg",
+    "imageType": "jpg",
+    "dishTypes": "starter"
+  },
+  {
+    "pricePerServing": 27.52,
+    "id": 2,
+    "title": "Apricot Slice",
+    "image": "https://spoonacular.com/recipeImages/632678-556x370.jpg",
+    "imageType": "jpg",
+    "dishTypes": "side dish"
+  },
+  {
+    "pricePerServing": 245.9,
+    "id": 3,
+    "title": "Cozze e Vongole",
+    "image": "https://spoonacular.com/recipeImages/652750-556x370.jpg",
+    "imageType": "jpg",
+    "dishTypes": "starter"
+  },
+  {
+    "pricePerServing": 109.92,
+    "id": 4,
+    "title": "Orange Juice",
+    "image": "https://spoonacular.com/recipeImages/659782-556x370.jpg",
+    "imageType": "jpg",
+    "dishTypes": "side dish"
+  },
+  {
+    "pricePerServing": 38.8,
+    "id": 5,
+    "title": "Classic Vanilla-Orange Sugar Cookies",
+    "image": "https://spoonacular.com/recipeImages/639644-556x370.jpg",
+    "imageType": "jpg",
+    "dishTypes": "dessert"
+  },
+  {
+    "pricePerServing": 55.4,
+    "id": 6,
+    "title": "Cheddar Chile Beer Bread",
+    "image": "https://spoonacular.com/recipeImages/637506-556x370.jpg",
+    "imageType": "jpg",
+    "dishTypes": "bread"
+  }
+]

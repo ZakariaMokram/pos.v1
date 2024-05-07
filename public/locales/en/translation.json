@@ -1,0 +1,153 @@
+{
+  "general": {
+    "cancel": "Cancel",
+    "continue": "Continue",
+    "discard": "Discard",
+    "close": "Close",
+    "total": "Total",
+    "delete": "Delete"
+  },
+  "buttons": {
+    "payNow": "Pay Now",
+    "append": "Append",
+    "authenticate": "Authenticate"
+  },
+  "auth": {
+    "logOut": "Log Out",
+    "selectUsername": "Choose your name"
+  },
+  "dialogs": {
+    "confirmationAlertTitle": "Are you absolutely sure?",
+    "billConfirmationDesc": "This action will generate and print the bill for the current order, including all added items."
+  },
+  "gateway": {
+    "orderRequest": "Order Request",
+    "tableArrangements": "Table Arrangements",
+    "dailySummaries": "Daily Summaries",
+    "appSettings": "General Settings"
+  },
+  "orders": {
+    "menu": {
+      "foodiesMenu": "Menu",
+      "foodiesMenuDesc": "Browse our selection of dishes by category.",
+      "all": "All"
+    },
+    "addsOn": {
+      "customize": "Customize",
+      "customizeDesc": "Select the ingredients you want to add or remove.",
+      "categoryDesc": "Select your desired add-ons",
+      "addOnHint": "You can add up to {{num}} of this item.",
+      "ingredients": "Ingredients",
+      "ingredientsDesc": "Personalize your ingredients",
+      "ingredientsHint": "Default quantity {{num}}{{unit}}.",
+      "specialInstructions": "Special Instructions",
+      "specialInstructionsDesc": "Enter your special instructions"
+    },
+    "discount": {
+      "discount": "Discount",
+      "discountDesc": "Add a discount for the current purchase."
+    },
+    "summaryTable": {
+      "item": "Item",
+      "price": "Price",
+      "quantity": "Quantity",
+      "discount": "Discount",
+      "totalAfterDiscount": "Total After Discount",
+      "summaryDesc": "Start building an order by selecting items from the menu."
+    },
+    "bill": "Bill",
+    "guests": {
+      "guests": "Guests",
+      "guestsDialogDesc": "Add guests count to the current order."
+    },
+    "split": "Split",
+    "transfer": "Transfer",
+    "agents": {
+      "agents": "Agents",
+      "agentsDesc": "Start typing to select an agent from the list or create a custom preference.",
+      "existingAgent": "Existing Agent",
+      "custom": "Custom",
+      "customPlaceholder": "For example 10 for 10%",
+      "selectAgent": "Select Agent",
+      "searchAgent": "Search Agent",
+      "noAgentFound": "No agent found"
+    },
+    "payment": {
+      "payment": "Payment",
+      "remaining": "Remaining",
+      "toGiveBack": "To Give Back"
+    },
+    "order": {
+      "order": "Order",
+      "orderLine": "Orders List",
+      "confirmation": "Confirmation",
+      "orderDialogDesc": "To proceed, choose the order type and enter the associated values.",
+      "atTheTable": "At the table",
+      "atTheTableDesc": "To order for dine-in, Please select a table on the tables page.",
+      "tableConfirmation": "Is this the table you wanted? If not, exit and pick again.",
+      "onTheSpot": "On the spot",
+      "onTheSpotDesc": "You've chosen type IN HOUSE. To proceed with this type, simply click the Continue button.",
+      "takeaway": "Takeaway",
+      "takeawayDesc": "You've chosen type TAKEAWAY. To proceed with this type, simply click the Continue button.",
+      "delivery": "Delivery",
+      "deliveryDesc": "You've chosen type DELIVERY. To proceed with this type, simply click the Continue button."
+    },
+    "managerAuth": {
+      "authentication": "Authentication",
+      "authenticationDesc": "Please select your name and enter your password to apply a discount.",
+      "selectUsername": "Select a username"
+    }
+  },
+  "tables": {
+    "orderDetails": "Order Details",
+    "tables": "Tables",
+    "floor": "Floor",
+    "area": "Area",
+    "table": "Table",
+    "chairs": "Chairs",
+    "allTables": "All Tables",
+    "available": "Available",
+    "reserved": "Reserved",
+    "occupied": "Occupied",
+    "status": "Status",
+    "square": "Square",
+    "circle": "Circle",
+    "small": "Small",
+    "normal": "Normal",
+    "large": "Large",
+    "number": "Number",
+    "shape": "Shape",
+    "size": "Size",
+    "tableActions": "Table Actions"
+  },
+  "settings": {
+    "settings": "Settings",
+    "settingsDesc": "Manage your application settings and preferences.",
+    "preferences": "Preferences",
+    "language": "Language",
+    "languageDesc": "Customize the language used in the app.",
+    "english": "English",
+    "french": "French",
+    "general": "General"
+  },
+  "summaries": {
+    "summaries": "Summaries",
+    "summariesDesc": "Browse the recent added orders.",
+    "filterOrders": "Filter orders ...",
+    "columns": "Columns",
+    "next": "Next",
+    "previous": "Previous",
+    "tableDesc": "{{current}} of {{total}} row(s) selected.",
+    "reference": "Reference",
+    "status": "Status",
+    "guests": "Guests",
+    "orderType": "Order Type",
+    "date": "Date",
+    "actions": "Actions",
+    "noResults": "No results.",
+    "placed": "Placed",
+    "completed": "Completed",
+    "progress": "Progress",
+    "cancelled": "Cancelled"
+  }
+}
